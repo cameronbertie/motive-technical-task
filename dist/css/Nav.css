@@ -1,0 +1,32 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: white;
+}
+
+.nav__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1140px;
+}
+
+.nav__logo {
+  width: 72px;
+  height: 40px;
+}
+
+.nav__right {
+  display: flex;
+}
+
+.nav__link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0 13px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=Nav.css.map */
