@@ -53,6 +53,8 @@ a {
   }
 }
 
+// NAVIGATION
+
 .nav {
   display: flex;
   justify-content: center;
@@ -124,6 +126,9 @@ a {
   }
 }
 
+
+// HERO SECTION
+
 .hero__top {
   margin-top: 80px;
   padding: 16px 0;
@@ -164,6 +169,9 @@ a {
     }
   }
 }
+
+
+// POSTS SECTION
 
 .posts {
   padding: 60px 0;
@@ -312,6 +320,9 @@ a {
   color: $light-text;
 }
 
+
+// INFOGRAPHIC SECTION
+
 .infographic {
   padding: 60px 0;
   font-family: "Rubik", sans-serif;
@@ -370,6 +381,9 @@ a {
     height: auto;
   }
 }
+
+
+// CASE STUDIES SECTION
 
 .caseStudies {
   background-image: url(/images/Cisco_Banner.png);
@@ -453,6 +467,9 @@ a {
     }
   }
 }
+
+
+// GALLERY SECTION
 
 .gallery {
   border-top: 12px solid $light-blue;
@@ -564,6 +581,9 @@ a {
   padding: 16px 16px 45px 16px;
   line-height: 1.6em;
 }
+
+
+// FOOTER
 
 .footer__top {
   background-color: $background-color;
